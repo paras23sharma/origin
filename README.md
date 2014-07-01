@@ -1,5 +1,3 @@
 origin
 ======
-
-the mother of all !!!
-Buenos Tardes !!!
+THE MOTHER OF ALL !!!
